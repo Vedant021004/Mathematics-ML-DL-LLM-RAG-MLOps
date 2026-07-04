@@ -1,4 +1,4 @@
-# 🚀 AI Engineer Journey: Mathematics → ML → DL → LLM → RAG → MLOps
+# 🚀 Mathematics → ML → DL → LLM → RAG → MLOps
 
 > Building AI isn't about memorizing algorithms—it's about understanding how every concept builds on the previous one.
 
@@ -8,7 +8,7 @@ This repository documents my complete learning journey from the mathematical fou
 
 # 🎯 Goal
 
-Become an AI Engineer capable of building, deploying, and maintaining production-ready AI applications.
+Become an AI capable of building, deploying, and maintaining production-ready AI applications.
 
 ---
 
